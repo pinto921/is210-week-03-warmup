@@ -6,7 +6,9 @@ Strip this terribly formatted string of its excess characters.
 """
 
 
-NERVOUS_AS = """
+NWERVOUS_AS = """
+
+
 
 
 
@@ -18,3 +20,5 @@ NERVOUS_AS = """
 
 
 """
+
+NERVOUS_AS = NERVOUS.strip() 
